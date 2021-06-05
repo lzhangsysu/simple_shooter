@@ -1,4 +1,4 @@
-# SimpleShooter
+# Simple Shooter
 
 Simple Shooter: a 3D single player game developed with Unreal Engine and C++.
 
